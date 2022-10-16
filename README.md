@@ -54,3 +54,22 @@ designs and structures of different website and so I decided to pursue software 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
+
+<!------------------------------------------------------------------------------------------------------------------------------------------->
+
+## 📊 My Github Stats
+
+  <br/>
+  <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ankur9900&show_icons=true&locale=en&theme=highcontrast" alt="Ankur9900" /></p>
+<br>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ankur9900&&theme=highcontrast" alt="Ankur9900" /></p>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+<br/>
+<br/>
+<!-- <img alt="Ankur Kumar Chauhan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ankur9900&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /> -->
+
+<br/>
+<br/>
