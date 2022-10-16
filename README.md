@@ -12,7 +12,7 @@ designs and structures of different website and so I decided to pursue software 
 <!----------------------------------- About Section ------------------------------------>
 ## 👨🏻‍💻 About Me:
 - 🔭 I’m currently student at **Masai School**
-<img align="right"  alt="Coding" width="500" src="https://i0.wp.com/lesthermairena.com/wp-content/uploads/2018/07/SVG.gif?resize=640%2C393&ssl=1">
+<img align="right"  alt="Coding" width="400" src="https://i0.wp.com/lesthermairena.com/wp-content/uploads/2018/07/SVG.gif?resize=640%2C393&ssl=1">
 - 👯 I'm currently learning Full Stack Web Development at Masai School.
 
 - 🤝 I'm looking to work as Frontend Web Developer.
