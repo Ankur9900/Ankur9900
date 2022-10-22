@@ -1,4 +1,4 @@
-<img  alt="web" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif"  />
+<img  alt="web"  width="100%" height="300px"  object-fit="cover" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif"  />
 
 <!----------------------------------- Heading Section ------------------------------------>
 <h1 align="center">Hi there! I'm Ankur Kumar Chauhan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
