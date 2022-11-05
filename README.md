@@ -21,7 +21,7 @@ designs and structures of different website and so I decided to pursue software 
 - 💬 Ask me about **Javascript , HTML , CSS , REACT**
 - 📜 My <a href="https://drive.google.com/file/d/1Q4NTQmMjA8PV_fy66uMASk4AE_Ide62X/view?usp=sharing" target="blank">RESUME </a>
 - 📫 How to reach me **arya.ankur99@gmail.com**
-- visit my portfolio **/**
+- visit my portfolio **https://ankur9900.github.io/**
 
 <!----------------------------------- Profile View Section ------------------------------------>
 
